@@ -1,0 +1,2 @@
+# Ecommerce-React
+Ecommerce React  dynamic web site made mainly with PHP following the MVC model where users can login, sign up and browse products using a variety of filters and select the desired product. users can as well add products to cart and view their details, we also added an admin dashboard where if autheniticated the admin can add products and view the sales also see all the percentages related to a certain category or clients.
